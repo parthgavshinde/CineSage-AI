@@ -11,3 +11,15 @@ wheels/
 
 # Environment variables
 .env
+
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.python-version
+
+# Environment
+.env
